@@ -1,34 +1,98 @@
 [
 {
     "address": "osmo1txa4fgusm5fj3wt90k3n6lr3w5scwneev4a3d2",
-    "allocation": "1232425",
+    "allocation": "111111",
     "proof": [
-      "a7a323de83368d939ab8d61b67a5bd11c667715c3904f8413ab6ce0f62309c6a",
-      "f38e134b5c723a113230360a0896733a609a8872209d91026bed2e011be14137"
+      "7acef2978ac71995bfda407345414048dd18bb3754f7e68f7e5a7fe38666c821",
+      "1c92f20b9418d521f073fb0139bae0ccf9a27a370617e1591cb0c01019499a8b",
+      "6412a7803119bfcff3252c6e546be0558b324da2dfb133987c54e4691129327e",
+      "a622dd7006533df84c05bb513ca6e1ffbce2956163df3a0e9ec7bb79b31a914f"
     ]
   },
   {
     "address": "osmo10lrc69sezxz3zr3s0fuxr295q5p42xzle2hv99",
-    "allocation": "2111201",
+    "allocation": "222222",
     "proof": [
-      "03837ff113691de995232ab8661155bfa617509274034ab2d50e8ccf43fff2de",
-      "f38e134b5c723a113230360a0896733a609a8872209d91026bed2e011be14137"
+      "7ad6ef3fe9bac9cdd12d7b6d57a0a4f88d5c5af87fb3596307252619f7aa433c",
+      "1c92f20b9418d521f073fb0139bae0ccf9a27a370617e1591cb0c01019499a8b",
+      "6412a7803119bfcff3252c6e546be0558b324da2dfb133987c54e4691129327e",
+      "a622dd7006533df84c05bb513ca6e1ffbce2956163df3a0e9ec7bb79b31a914f"
     ]
   },
   {
     "address": "osmo1sz86q08ayzxurw66t5j0kfvesxaxugpmhfa4ks",
-    "allocation": "244601",
+    "allocation": "333333",
     "proof": [
-      "e50850946cbe3f89739f9d7e51ff6f17d7a9dc679f5ccf66cfa0150df1c830fa",
-      "ed3021959bc9f92c842b1d15a46c3a83cae95d67aca1afdd1bd32ba7ce856f78"
+      "e7d78c3c1a63534e647e136057350030dfc21fded1a9550cea0628deffd80e9e",
+      "765ad8e79c8be01be225aa4e28f0333e1fda6d584368b00cf07db1c7180b9a1b",
+      "6412a7803119bfcff3252c6e546be0558b324da2dfb133987c54e4691129327e",
+      "a622dd7006533df84c05bb513ca6e1ffbce2956163df3a0e9ec7bb79b31a914f"
     ]
   },
   {
-    "address": "osmo1hg0zf0c9can4tvtulh5gmmxe4jpflre3yewxjl",
-    "allocation": "254601",
+    "address": "osmo127fkrvz687dmthv689lakvv8p3yzxgyqmq3997",
+    "allocation": "444444",
     "proof": [
-      "12e88d39baf1019e6ca7cc7bcc1917e1a4698c6a4579d766c297bd649618e8a4",
-      "ed3021959bc9f92c842b1d15a46c3a83cae95d67aca1afdd1bd32ba7ce856f78"
+      "6b69b21395f60bf54682e3f7a018baffbd342cc269259a1e3252f0ad709777f5",
+      "765ad8e79c8be01be225aa4e28f0333e1fda6d584368b00cf07db1c7180b9a1b",
+      "6412a7803119bfcff3252c6e546be0558b324da2dfb133987c54e4691129327e",
+      "a622dd7006533df84c05bb513ca6e1ffbce2956163df3a0e9ec7bb79b31a914f"
+    ]
+  },
+  {
+    "address": "osmo1n0lsz7w07fng348vudxgva4pheuvsc0k82qw9a",
+    "allocation": "555555",
+    "proof": [
+      "ada9eecb646eaa35f251af62807db078d6e728d903aa4f5e7e021d30f765334f",
+      "dc598a8332cfe06d71abad33ab02aa73f133f189ebbd3c293c3c73ccc58d0f0e",
+      "f8da34e050048d0c857ad2e2d675db11d7bd2f915db58ca45a62995ea0eae4f2",
+      "a622dd7006533df84c05bb513ca6e1ffbce2956163df3a0e9ec7bb79b31a914f"
+    ]
+  },
+  {
+    "address": "osmo1rsxvvq8ryw46xgg986q4k0c2fy5qzth58qt79f",
+    "allocation": "666666",
+    "proof": [
+      "965777ea3100436d0b4db9093c0c4d0b0c66b55a4466237a848b333fc19ac47b",
+      "dc598a8332cfe06d71abad33ab02aa73f133f189ebbd3c293c3c73ccc58d0f0e",
+      "f8da34e050048d0c857ad2e2d675db11d7bd2f915db58ca45a62995ea0eae4f2",
+      "a622dd7006533df84c05bb513ca6e1ffbce2956163df3a0e9ec7bb79b31a914f"
+    ]
+  },
+  {
+    "address": "osmo1g7aywssg5ng09cfyhsq87z0e9y7yc7c3wdw0ge",
+    "allocation": "777777",
+    "proof": [
+      "1a9be80dd591a78c0c55e28d48377056eb2db7f68c5932ba18019c2a4a17792e",
+      "85f10c298ac8056acac7b2cbfb67c4c22bfdeff1438c861eb89446a327a39836",
+      "f8da34e050048d0c857ad2e2d675db11d7bd2f915db58ca45a62995ea0eae4f2",
+      "a622dd7006533df84c05bb513ca6e1ffbce2956163df3a0e9ec7bb79b31a914f"
+    ]
+  },
+  {
+    "address": "osmo1zap2tzsqpz7mq7twp5cp23r994z3gg5hlzmwf4",
+    "allocation": "888888",
+    "proof": [
+      "60e574b8f42fa9636fd6f97a98c40d36618566835c8989030526f142b9559b01",
+      "85f10c298ac8056acac7b2cbfb67c4c22bfdeff1438c861eb89446a327a39836",
+      "f8da34e050048d0c857ad2e2d675db11d7bd2f915db58ca45a62995ea0eae4f2",
+      "a622dd7006533df84c05bb513ca6e1ffbce2956163df3a0e9ec7bb79b31a914f"
+    ]
+  },
+  {
+    "address": "osmo1sz86q08ayzxurw66t5j0kfvesxaxugpmhfa4ks",
+    "allocation": "999999",
+    "proof": [
+      "3b25b1840460d57c8c7e80df87fc3fb9b42274ff8ea114ad484a88265086d18e",
+      "a566a50aa5c2f7b8b913e501fd4d1f3c1bd474a50adfc161c0c1ec181b27b187"
+    ]
+  },
+  {
+    "address": "osmo124vdc7zqa4x5zzl232frzkh6rywvscdzrrg9kh",
+    "allocation": "696969",
+    "proof": [
+      "7ecde6209106e150a4a11c9d27f9279fcd93c699ae8299ba1980c76a4de7c3f0",
+      "a566a50aa5c2f7b8b913e501fd4d1f3c1bd474a50adfc161c0c1ec181b27b187"
     ]
   }
 ]
