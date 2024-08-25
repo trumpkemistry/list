@@ -1,0 +1,34 @@
+[
+{
+    "address": "osmo1txa4fgusm5fj3wt90k3n6lr3w5scwneev4a3d2",
+    "allocation": "1232425",
+    "proof": [
+      "a7a323de83368d939ab8d61b67a5bd11c667715c3904f8413ab6ce0f62309c6a",
+      "f38e134b5c723a113230360a0896733a609a8872209d91026bed2e011be14137"
+    ]
+  },
+  {
+    "address": "osmo10lrc69sezxz3zr3s0fuxr295q5p42xzle2hv99",
+    "allocation": "2111201",
+    "proof": [
+      "03837ff113691de995232ab8661155bfa617509274034ab2d50e8ccf43fff2de",
+      "f38e134b5c723a113230360a0896733a609a8872209d91026bed2e011be14137"
+    ]
+  },
+  {
+    "address": "osmo1sz86q08ayzxurw66t5j0kfvesxaxugpmhfa4ks",
+    "allocation": "244601",
+    "proof": [
+      "e50850946cbe3f89739f9d7e51ff6f17d7a9dc679f5ccf66cfa0150df1c830fa",
+      "ed3021959bc9f92c842b1d15a46c3a83cae95d67aca1afdd1bd32ba7ce856f78"
+    ]
+  },
+  {
+    "address": "osmo1hg0zf0c9can4tvtulh5gmmxe4jpflre3yewxjl",
+    "allocation": "254601",
+    "proof": [
+      "12e88d39baf1019e6ca7cc7bcc1917e1a4698c6a4579d766c297bd649618e8a4",
+      "ed3021959bc9f92c842b1d15a46c3a83cae95d67aca1afdd1bd32ba7ce856f78"
+    ]
+  }
+]
