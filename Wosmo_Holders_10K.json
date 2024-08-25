@@ -1,4 +1,14 @@
 [
+
+    {"address": "osmo1txa4fgusm5fj3wt90k3n6lr3w5scwneev4a3d2","balance": "2000000000000","allocation": "0.2685284640171858"},
+    {"address": "osmo10lrc69sezxz3zr3s0fuxr295q5p42xzle2hv99","balance": "1946706867950","allocation": "0.2685284640171858"},
+    {"address": "osmo1sz86q08ayzxurw66t5j0kfvesxaxugpmhfa4ks","balance": "1752071500000","allocation": "0.2685284640171858"},
+    {"address": "osmo127fkrvz687dmthv689lakvv8p3yzxgyqmq3997","balance": "1670154263045","allocation": "0.2685284640171858"},
+    {"address": "osmo1n0lsz7w07fng348vudxgva4pheuvsc0k82qw9a","balance": "1553789521704","allocation": "0.2685284640171858"},
+    {"address": "osmo1rsxvvq8ryw46xgg986q4k0c2fy5qzth58qt79f","balance": "1541417214570","allocation": "0.2685284640171858"},
+    {"address": "osmo1g7aywssg5ng09cfyhsq87z0e9y7yc7c3wdw0ge","balance": "1504119852696","allocation": "0.2685284640171858"},
+    {"address": "osmo1zap2tzsqpz7mq7twp5cp23r994z3gg5hlzmwf4","balance": "1500000000000","allocation": "0.2685284640171858"},
+    {"address": "osmo124vdc7zqa4x5zzl232frzkh6rywvscdzrrg9kh","balance": "1499280600117","allocation": "0.2685284640171858"},   
     {"address": "osmo1elw4psm8sddcvu8fsdx3hs0zkctcdzwu8qspuxzthepc6ev55c8qvp08u6","balance": "349361942056591","allocation": "0.2685284640171858"},
     {"address": "osmo1j0dxu3wkyza5775jgwu5u5y29reqmqtyz9uz7mau2pwl336wjz9s9jxpf0","balance": "66781063149629","allocation": "0.2685284640171858"},
     {"address": "osmo1ugku28hwyexpljrrmtet05nd6kjlrvr9jz6z00","balance": "51699779425009","allocation": "0.2685284640171858"},
